@@ -1,0 +1,17 @@
+9903, R6tIhaM2We0, 30.000, 40.000, /m/02bm9n, /m/05zc1, /m/0l7xg, /t/dd00077
+13566, buLfCXuwIaw, 240.000, 250.000, /m/02bm9n, /m/05zc1, /m/07qh7jl, /m/0l7xg, /t/dd00077
+16861, n7-eGxAu9s8, 250.000, 260.000, /m/02bm9n, /m/05zc1, /t/dd00077
+14088, dhdwXFf3LIE, 140.000, 150.000, /m/02bm9n, /m/05zc1, /m/0l7xg, /t/dd00077
+17939, rEOi4SsuLq0, 47.000, 57.000, /m/02bm9n, /m/05zc1, /m/07qh7jl, /m/0l7xg, /t/dd00077
+4706, Bs0tiKuvDbY, 180.000, 190.000, /m/05zc1, /t/dd00077
+11405, Vtf2gFlBZj4, 6.000, 16.000, /m/02bm9n, /m/05zc1, /m/0l7xg, /t/dd00077
+19480, wkTKiowq_SU, 8.000, 18.000, /m/02bm9n, /m/05zc1, /m/0l7xg, /t/dd00077
+8171, LnQn4pXxduE, 20.000, 30.000, /m/02bm9n, /m/05zc1, /m/0l7xg, /t/dd00077
+6219, FwJG02xSVcg, 530.000, 540.000, /m/05zc1, /t/dd00077
+12000, XjQklFzqpyo, 30.000, 40.000, /m/02bm9n, /m/05zc1, /m/0l7xg, /t/dd00077
+18096, rirmqX7pIH0, 280.000, 290.000, /m/02bm9n, /m/05zc1, /t/dd00077
+4439, BETa92ALukA, 0.000, 10.000, /m/05zc1, /m/07qh7jl, /t/dd00077
+18540, tF2yzFjCRpE, 10.000, 20.000, /m/05zc1, /t/dd00077
+18035, rZVzLxiUbE8, 90.000, 100.000, /m/02bm9n, /m/05zc1, /m/07qh7jl, /m/0l7xg, /t/dd00077
+18045, raa03U3WUsY, 530.000, 540.000, /m/05zc1, /t/dd00077
+10386, Sf2ne8weLNA, 120.000, 130.000, /m/05zc1, /t/dd00077

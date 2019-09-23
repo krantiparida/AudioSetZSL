@@ -1,0 +1,10 @@
+'pig',
+'panther',
+'stream',
+'bus',
+'aircraft',
+'clock',
+'fan',
+'printer',
+'church-bell',
+'gunshot'

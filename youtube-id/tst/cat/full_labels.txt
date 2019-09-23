@@ -1,0 +1,710 @@
+442220, 7Qm8wGjBX-8, 0.000, 7.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+943307, Lm2gV3VFOT8, 17.000, 27.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1455787, cYVVoctRepA, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+1408605, an3cNcN_l4k, 30.000, 40.000, /m/01yrx, /m/02yds9, /m/068hy, /m/09x0r
+1131180, RzIkhmQT-Io, 10.000, 20.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+34953, -Y_g5s2w53E, 22.000, 32.000, /m/01yrx, /m/068hy, /m/0jbk
+1264658, WcKQFtlyFEk, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+461897, 7uM1j_rzITM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1780541, pBXZyD7pVA8, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+375244, 5r_lohA1GFk, 0.000, 10.000, /m/01yrx, /m/04rlf, /m/0jbk
+47200, -kKEV9mrbK4, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1320243, Ya7qDSOOu8A, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r
+282965, 3vcBPIhHjbE, 90.000, 100.000, /m/01yrx, /m/068hy, /m/0jbk
+1056365, PT1HJMcZVYY, 0.000, 10.000, /m/01yrx, /m/07qrkrw, /m/09x0r, /m/0jbk
+432946, 7CY-C7M8aGk, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+224555, 2pFAkhUv7HQ, 19.000, 29.000, /m/01yrx
+269906, 3fZHwuDPbJ8, 0.000, 10.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+335650, 5-aW6ffdiys, 100.000, 110.000, /m/01yrx, /m/09x0r, /m/0jbk
+985631, N8PyTG8XUEk, 90.000, 100.000, /m/01yrx, /m/0642b4, /m/068hy, /m/0jbk
+298743, 4EMtBKb84kM, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+261953, 3WpR3jbKDgY, 21.000, 31.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+1523115, f2RCCyZfRo8, 20.000, 30.000, /m/01yrx, /m/09x0r, /t/dd00125
+1093084, QgeXUCk2vp0, 20.000, 30.000, /m/01yrx, /m/0jbk
+71703, 094whcoGFU8, 90.000, 100.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00128
+99017, 0bLHj36U5UY, 280.000, 290.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+1007226, NqD2nqqOmfc, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+388690, 69b8X7jqjXQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1469966, d4TRIhmVidk, 30.000, 40.000, /m/01yrx, /m/07qrkrw
+1626045, j06yexudNSM, 10.000, 20.000, /m/01yrx, /m/0jbk
+437453, 7JRB6-XoYBk, 30.000, 40.000, /m/01yrx
+1766364, obImohiNaVc, 20.000, 30.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1251392, W9o3m5OcRfU, 60.000, 70.000, /m/01yrx, /m/02jz0l, /m/068hy, /m/0838f, /m/0jbk
+653346, CnmFFzD5qEY, 0.000, 8.000, /m/01yrx, /m/02_nn, /m/068hy, /t/dd00125
+1203355, UUFHPuXXcN4, 130.000, 140.000, /m/01yrx, /m/068hy, /m/09x0r, /t/dd00125
+1551022, g5Ew842c6fQ, 18.000, 28.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1112657, RMJAQkaGCAk, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1784845, pMlJMsPxWyA, 10.000, 20.000, /m/01yrx, /m/068hy, /m/07qrkrw
+1067578, Pq-8bTTZMO0, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+200900, 2OoPfRnajZQ, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1273219, WvoYjiSvEP0, 23.000, 33.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+336818, 51I8U2iWrpM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1429196, bYX-7YoLQEc, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+696043, E2J2OMFf6jk, 13.000, 23.000, /m/01yrx, /m/068hy, /m/0jbk
+1542795, fmQv-AmBHfs, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+2010455, yga8ZRGIu9g, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+420255, 6uC-v3ZeLIc, 26.000, 36.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+510548, 97jqYhgP4LE, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+997276, NWZNlakWtlA, 5.000, 15.000, /m/01yrx, /m/068hy, /m/07qrkrw
+1378993, _hSbxKngBX8, 30.000, 40.000, /m/01yrx, /m/0jbk
+404168, 6WteI_2ipko, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+1407522, akYv-1BVMT4, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1759558, oKECVf2tO0Q, 3.000, 13.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+817511, Hky1DDrf23A, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/09x0r, /m/0jbk
+1970559, x16f06a4tJA, 1.000, 11.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1317999, YWFfOxKE65o, 80.000, 90.000, /m/01yrx, /m/09x0r, /m/0jbk
+1382506, _pbqBYwHiXw, 0.000, 10.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+438766, 7LQ7rKmHA4E, 20.000, 30.000, /m/01yrx, /m/0jbk
+875783, J_xdM4m96rM, 170.000, 180.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1393158, aDVmqdJd4pY, 120.000, 130.000, /m/01yrx, /m/09x0r, /m/0jbk
+1595329, hoQQksK2Xmo, 10.000, 20.000, /m/01yrx
+157900, 1cSeAysUdek, 20.000, 30.000, /m/01yrx, /m/068hy, /m/0jbk
+259862, 3UFGY-U_1jc, 12.000, 22.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1018009, OBnP19wnMpY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+249787, 3ID149JSVkU, 29.000, 39.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1545113, fs442oqPqko, 10.000, 20.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk, /t/dd00125
+280740, 3su6_Zh-U3E, 29.000, 39.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1269856, WoETPuXktnM, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+968478, M_l35B1qYWw, 110.000, 120.000, /m/01yrx, /m/068hy, /m/0jbk
+1662019, kRZbKcY3C8E, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1536588, fYfduD2yOyE, 70.000, 80.000, /m/01yrx, /m/0ghcn6, /m/0jbk
+912048, KlCGS1LkvCk, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1471745, d8aZB2ksFTo, 40.000, 50.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1153436, SjcQW5VfIAo, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+273549, 3jzigbp8vfQ, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+466879, 81OLFaJPecY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+900164, KNW2h98TtBw, 0.000, 10.000, /m/01yrx, /m/09x0r, /m/0jbk
+172655, 1tJdV9lG8dI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1718002, me3FIexyYoQ, 60.000, 70.000, /m/01yrx, /m/068hy, /m/0jbk
+835245, IJRtkMihqgQ, 170.000, 180.000, /m/01yrx, /m/068hy, /m/0jbk
+824245, HyQ3xt8LU2Y, 23.000, 33.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1606745, iFq5unYnPG0, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+79232, 0H7BcqrunCw, 24.000, 34.000, /m/01yrx, /m/068hy, /m/09x0r
+1961312, wdSB3F5dKe0, 50.000, 60.000, /m/01yrx, /m/0jbk
+1619895, ilhly3KYmgI, 10.000, 20.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+175995, 1x2dJASMVi4, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+282876, 3vWYXl3ZSE0, 18.000, 28.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+331884, 4vSCafZpEQQ, 15.000, 25.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+514478, 9E8a2CkKNSw, 0.000, 10.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r, /m/0jbk
+969200, MbEBiFNJZfI, 60.000, 70.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+404736, 6XlRXXLBDJs, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+434327, 7EiPo7vOjXU, 10.000, 20.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+222986, 2nSWjsRllr8, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07rjwbb, /m/0jbk
+1068224, PrJjpNYBXgA, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1967365, wtQkDvqGvyU, 20.000, 30.000, /m/01yrx, /m/02yds9, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+502356, 8vQCRWDGLTM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+947691, Lv5bIKp22BA, 20.000, 30.000, /m/01yrx, /m/0jbk
+146824, 1QxDi-op6Qg, 27.000, 37.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+158329, 1cwBAUf9dNQ, 7.000, 17.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+333122, 4xDPeTIMoJs, 21.000, 31.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1982082, xVXddLuDHFs, 4.000, 14.000, /m/01yrx, /m/068hy, /m/07qrkrw
+1192660, U5zweVxHYQ4, 40.000, 50.000, /m/01yrx, /m/068hy, /m/0jbk
+92248, 0UyKDRAMwQY, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r, /m/0jbk
+881150, JkvsKyU-upA, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+128217, 16PXUIj27kk, 20.000, 30.000, /m/01yrx, /m/02_nn, /m/0jbk
+636139, CJactMajzbA, 0.000, 9.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+163934, 1jEP9Iry4qE, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1033150, OgjNRwKXrFw, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1633322, jIWZQB52hic, 120.000, 130.000, /m/01yrx, /m/0jbk
+1270452, Wpfvcmgg6JM, 20.000, 30.000, /m/01yrx, /m/068hy, /m/0jbk
+280646, 3smTux_lp8o, 8.000, 18.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+390785, 6Caft-Vel14, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+356910, 5SYDLTlTj-g, 8.000, 18.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1796163, ppH_JZLMsXI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw
+1520546, exUNUmItQRY, 40.000, 50.000, /m/01yrx, /m/068hy, /m/0jbk
+1216686, Ux6H06lvN4c, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy
+896797, KGRsalunZo0, 170.000, 180.000, /m/01yrx, /m/03dnzn, /m/068hy, /m/09x0r, /m/0jbk
+1091759, QdfxA2M3JPc, 60.000, 70.000, /m/01yrx, /m/09x0r, /m/0jbk
+1216394, UwQhrCDchio, 12.000, 22.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+378485, 5wBROqCRBhI, 60.000, 70.000, /m/01yrx, /m/09x0r, /m/0jbk
+8316, -7SNH8SUM0I, 30.000, 40.000, /m/012f08, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/07yv9, /m/09x0r, /m/0jbk
+324511, 4lYCUB4REU0, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+150247, 1UqxJisaXrk, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/09x0r, /m/0jbk
+475283, 8EmUkaIhr8M, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+56289, -ttKN5Ba368, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+2007583, yZqRd36Cw0A, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+811267, HZWNNMZ8zxY, 0.000, 10.000, /m/01yrx, /m/09x0r, /m/0jbk
+505459, 9-UbDjVNXTk, 0.000, 7.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+714022, E_dAn66EVRc, 20.000, 30.000, /m/01yrx, /m/068hy, /m/0jbk
+1427002, bTLzeW-jZuM, 80.000, 90.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /m/0ytgt
+1082026, QJfX28qabPQ, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw
+1231780, VU-XykkFn0Q, 100.000, 110.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk, /t/dd00125
+138484, 1HfKtuB1-XA, 40.000, 50.000, /m/01yrx, /m/07qrkrw, /m/09x0r
+1731145, nAnHDR7u7eo, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00129
+1176430, TXE2gdz96fM, 60.000, 70.000, /m/01yrx, /m/09x0r, /m/0jbk
+885503, Jtcw_zQB1ZI, 60.000, 70.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1355632, ZquNV9SgoEk, 9.000, 19.000, /m/01hsr_, /m/01yrx, /m/068hy, /m/0jbk
+501323, 8tkL9td7E1A, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1999725, yEcwEhgmn2k, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+781745, GeIYztHuPCw, 30.000, 40.000, /m/01yrx, /m/0jbk
+11314, -AWzoCZpoBY, 10.000, 20.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1667267, kdjWkJoWB18, 80.000, 90.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+459305, 7qB9mZAAb6w, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+778494, GYp54RsGp04, 50.000, 60.000, /m/01yrx, /m/09x0r, /m/0jbk, /t/dd00125
+830139, I9DM2EBBuQ4, 30.000, 40.000, /m/01yrx, /m/07qrkrw, /m/0jbk
+836798, IMdLanfYWmM, 5.000, 15.000, /m/01yrx, /m/068hy, /m/09x0r
+1253562, WEa9t-sajC8, 90.000, 100.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+872215, JTbensAt_SE, 120.000, 130.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+827894, I4as-Z8JbXk, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+1834532, rPELcVZ_HVo, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1890407, thSPzjDQPl4, 11.000, 21.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1343569, ZQGW1_EOne4, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+722000, Eowe4FvsLgo, 60.000, 70.000, /m/01yrx, /m/068hy, /m/0jbk
+1169561, THxPFaKVijo, 40.000, 50.000, /m/01yrx, /m/068hy, /m/0jbk
+297284, 4CYB1Ei58sI, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+30147, -TYGdSo47xo, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+1869816, srEIq_bVTXc, 40.000, 50.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+20414, -Jl3ceaz95I, 9.000, 19.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+311078, 4UbU5rEumW0, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+365770, 5dxlYi71M6M, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+1700040, lwfAW1goLAQ, 80.000, 90.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0ghcn6, /m/0jbk
+1712540, mRNWBJkGJvQ, 0.000, 6.000, /m/01yrx, /m/068hy, /m/0jbk
+316173, 4aKcrDljKlc, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+365388, 5dQ8t0fQmf4, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+940236, LfWPbZdtxFI, 0.000, 10.000, /m/01yrx, /m/0jbk
+1001157, Nd_cH_EEjW4, 0.000, 10.000, /m/01d3sd, /m/01yrx, /m/0jbk
+1967675, wuNQcO1IUsc, 50.000, 60.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+491661, 8e9tbsbRXlI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+39718, -cOfK3iyhgk, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/09x0r, /m/0jbk
+214037, 2d4zAYqxd7M, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+142746, 1MPwoS-R83A, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+339903, 55Q5nD-vWRc, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+711321, EVUvCy-2l74, 130.000, 140.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1367362, _H4zbRKvWH8, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+104393, 0hAK5f1tDok, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+418124, 6qxcYCOkw8I, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1786189, pQEVnoHpxyM, 8.000, 18.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1017791, OBKiubT3h5I, 10.000, 20.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+167929, 1ntQTwKIELA, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1760005, oLO9TdXLJcY, 0.000, 10.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1118027, RXnZKJtBbAE, 60.000, 70.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+1658217, kHs7aOMXn0g, 21.000, 31.000, /m/01yrx, /m/068hy
+73327, 0Am7X758-Ek, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+968181, M_9pQR8IFRs, 10.000, 20.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+710295, ETYCjtwiTSM, 28.000, 38.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1400556, aV41wQpTNSI, 1.000, 11.000, /m/01yrx, /m/04rlf, /m/07qrkrw, /m/09x0r
+544083, A-69aL6532M, 480.000, 490.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+3986, -313pdpHsmU, 17.000, 27.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+927008, LF8T8ZNixOM, 30.000, 40.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+328236, 4qcVpJv_aIw, 0.000, 9.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+811572, H_7AWHR3yUc, 30.000, 40.000, /m/01yrx, /m/09x0r, /m/0jbk
+1348024, Z_Tmk0y4uGQ, 70.000, 80.000, /m/01yrx, /m/09x0r, /m/0jbk
+1936121, vazixGdGfr0, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk
+266898, 3btW_uemBno, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1694176, lhqnR7RLddg, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r
+2002478, yM0I2D03Kyk, 30.000, 40.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+346256, 5DzDmzJs9eg, 10.000, 20.000, /m/01yrx, /m/09x0r, /m/0jbk
+184221, 25Poj_2wBlM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1539527, fedmvfmuGLw, 170.000, 180.000, /m/01yrx, /m/0jbk
+1982626, xX05r5tW9RI, 30.000, 40.000, /m/01yrx, /m/07qrkrw, /m/09x0r
+493613, 8hG39KSN8II, 0.000, 10.000, /m/01yrx, /m/02yds9
+1292514, XbWy1CHRMwE, 29.000, 39.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1263436, W_bUHakwI3M, 60.000, 70.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1790970, pbqCguxKm9U, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+392097, 6EVZOE2sSYM, 110.000, 120.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1263664, Wa9T9k99q0k, 80.000, 90.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk, /t/dd00125
+488729, 8_H1ieQwD-I, 26.000, 36.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1246877, W-Xz0Srq1Yo, 30.000, 40.000, /m/01yrx, /m/02yds9
+230588, 2wQkPf2LMXE, 27.000, 37.000, /m/01yrx, /m/068hy, /m/0jbk
+1444988, c8CpeUbLbZY, 40.000, 50.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r, /m/0jbk
+338939, 5477eUgz9u4, 0.000, 7.000, /m/01yrx, /m/04rlf, /m/0jbk
+221833, 2m92xdyZt50, 30.000, 40.000, /m/01yrx, /m/07qrkrw, /m/09x0r, /m/0jbk
+1481564, dVjspC2SvUE, 10.000, 20.000, /m/01yrx, /m/068hy
+896262, KFL3-Fmbov8, 30.000, 40.000, /m/01yrx, /m/0jbk
+1353719, ZmXh0wGzV2Y, 10.000, 20.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+331617, 4v89TDGH3do, 30.000, 40.000, /m/01yrx, /m/07qrkrw, /m/07r81j2, /m/0jbk
+341833, 57x4T3XZqPg, 21.000, 31.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+1912164, ubFbFou1SHY, 30.000, 40.000, /m/01yrx, /m/09x0r, /m/0jbk
+485620, 8VJ9goLM-s8, 16.000, 26.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+110451, 0nqVe_y7Ckk, 10.000, 20.000, /m/01yrx, /m/09x0r, /m/0jbk
+409106, 6dRclLlmDJw, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+251525, 3KDtFq09ivA, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+802122, HHTzc4_7S2A, 30.000, 40.000, /m/01yrx, /m/09x0r, /m/0jbk
+970517, MdzU-7xmViQ, 50.000, 60.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+269171, 3ehTwni-7sg, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1457980, ccfMtDHaPbA, 100.000, 110.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+140053, 1JQnaf1JdWU, 5.000, 15.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1171154, TLQc1-_CBfU, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+339847, 55LL-6jcpcQ, 180.000, 190.000, /m/01yrx, /m/09x0r
+1917389, up3YVH5TvrA, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+792410, GzS6CWahKqI, 21.000, 31.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw
+406617, 6__ewqEUYeM, 0.000, 6.000, /m/01yrx, /m/068hy, /m/0jbk
+749339, FeZZQkv1BTg, 40.000, 50.000, /m/01yrx, /m/0jbk
+2025961, zK_hBVSs6x8, 20.000, 30.000, /m/01yrx, /m/09x0r, /m/0jbk
+1352210, Zj-D6PXeZOI, 320.000, 330.000, /m/01yrx, /m/04rlf, /m/0jbk
+1784156, pKzuA2NtRZE, 30.000, 40.000, /m/01yrx, /m/068hy
+270075, 3flBpZSeJWE, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1408516, amrwzDnR-2w, 50.000, 60.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r
+419461, 6t1VTVHPuZk, 40.000, 50.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1926234, vBma9YvmUuQ, 26.000, 36.000, /m/01yrx, /m/068hy, /m/0jbk
+838905, IQr4QzJ2t7c, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1367057, _GI7meqlYZk, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1449170, cISSedxuXUc, 80.000, 90.000, /m/01yrx, /m/068hy, /m/0jbk
+742543, FS75JZ6aCEA, 20.000, 30.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+198766, 2MFWzrk_KTM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+247071, 3ErID1J8Uec, 9.000, 19.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1144127, SQMiQZ1GOT4, 10.000, 20.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+22151, -LS-JevBX3E, 30.000, 40.000, /m/01yrx, /m/07qrkrw
+1795965, pop29Df-fnI, 190.000, 200.000, /m/01yrx, /m/02yds9, /m/068hy, /m/09x0r, /m/0jbk
+1276427, X20kMRnmRTk, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+1046369, P7ny3bW3Dy8, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+205558, 2U5ul4Dt-s8, 24.000, 34.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1492252, dtwPclDJ82U, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+274106, 3kg_DR1rkPM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk, /t/dd00125
+479386, 8LKsJ7SZNlI, 30.000, 40.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1552706, g9EGM-c3TbI, 0.000, 10.000, /m/01b_21, /m/01yrx, /m/068hy, /m/0jbk
+999846, NasOJeKaj8I, 5.000, 15.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+93473, 0WLZoOhg4LE, 110.000, 120.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1527049, fBTVz7z8XeQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1382044, _oZzvrLLgN0, 0.000, 5.000, /m/01yrx, /m/07qrkrw, /m/0jbk
+1747375, npZuJvKiggY, 0.000, 10.000, /m/01j3sz, /m/01yrx, /m/09x0r, /m/0jbk
+971253, MfVUGCizYGg, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/07qrkrw, /m/09x0r, /m/0jbk, /t/dd00126
+972539, Mi9ruLE1iS4, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+399208, 6PO_lPkV9gM, 40.000, 50.000, /m/01yrx, /m/0jbk
+422464, 6xXUXMwcj2c, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+99873, 0cH_NlhhMAs, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1849001, s-ZXYh2Xdt8, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1362238, _5DSfZnQZPw, 3.000, 13.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+369915, 5jwZvDC_L8k, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+785791, GmVUrqWgRgo, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+278661, 3qKqRNiRt3g, 0.000, 7.000, /m/01yrx, /m/04rlf, /m/09x0r
+344790, 5C2QIcCAWKA, 50.000, 60.000, /m/01yrx, /m/02yds9, /m/068hy, /m/09x0r, /m/0jbk
+1665160, kZTTTZpya-Q, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+303460, 4KXFNI_UQDs, 6.000, 16.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+216215, 2fXs7pmn8e4, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+747681, FbJMtOawkAo, 20.000, 30.000, /m/01yrx, /m/068hy, /m/09x0r
+308423, 4R07AUf2_x4, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+1426468, bS8vKWRJsdQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+862053, J95NdNFCfIo, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk
+1960186, waYwpbHkKjE, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1896779, tyOPMHDBy_Y, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy
+293512, 47oHinrJhJU, 1.000, 11.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1781926, pFCxcNOjEu4, 0.000, 4.000, /m/01yrx, /m/068hy, /m/07qrkrw
+420250, 6uBOJYr8s3M, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+293632, 47y-glbQmfQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+779556, G_yAIO_GeOg, 3.000, 13.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+378988, 5ww9Fjpvxy4, 13.000, 23.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+684797, Di1Pqq0-QC8, 0.000, 10.000, /m/01yrx, /m/0jbk
+143142, 1Mr9Xf87sA8, 12.000, 22.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1444281, c6Zx-zcXpXw, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+196518, 2JgHbC7yyTU, 0.000, 10.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1692299, ld5JtL9NPHk, 20.000, 30.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1449985, cKVLJ-ir0qc, 8.000, 18.000, /m/01yrx, /m/068hy, /m/0jbk
+564429, ASm_mkHCybA, 60.000, 70.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk, /t/dd00125
+166901, 1mhCQZsX87I, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy
+1993225, xyTuUt6U_k4, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+530652, 9e-JP9WCa3I, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1329734, YvnRQY1uzZA, 110.000, 120.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+627266, C3qlm2wJCCw, 2.000, 12.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r
+2031317, zYqmbWR3A5M, 20.000, 30.000, /m/01yrx, /m/09x0r, /m/0jbk
+548626, A69fpuHZYpY, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+878686, Jfo4I-M-g9M, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+1708166, mGD50uQb8cM, 70.000, 80.000, /m/01yrx, /m/068hy, /m/0ghcn6, /m/0jbk
+1167490, TDVdFV52E0o, 10.000, 20.000, /m/01yrx, /m/09x0r, /m/0jbk
+1573340, gxC-TYA2pWA, 330.000, 340.000, /m/01yrx, /m/04rlf, /m/068hy
+1417880, b7icrYVhiMk, 0.000, 10.000, /m/01yrx, /m/02yds9
+19399, -IhhKn6f8X4, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+1306304, Y5obA9aUvy0, 25.000, 35.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+483978, 8Sfgc2hIr5k, 20.000, 30.000, /m/01yrx, /m/068hy, /m/0jbk
+846898, If_kLmrKz-Q, 20.000, 30.000, /m/01yrx, /m/04rlf, /m/07qrkrw
+950896, M0aYvM6cyhU, 30.000, 40.000, /m/01yrx, /m/068hy
+183321, 24Ncp-W-tGI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+228947, 2uSGyPty86Q, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+210936, 2_OpvBn-Lls, 19.000, 29.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+211379, 2_vFQHZRsK0, 20.000, 30.000, /m/01yrx, /m/09x0r, /m/0jbk
+970421, MdmawJ_wleI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+19629, -Ivf63hDvzc, 30.000, 40.000, /m/01yrx, /m/0jbk
+1254076, WFkP_KfbPXI, 100.000, 110.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+211630, 2aCkZugaPMo, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+281158, 3tPbl-78nZ8, 0.000, 4.000, /m/01yrx, /m/068hy, /m/0jbk
+268238, 3dVfAVhlAVo, 30.000, 40.000, /m/01yrx, /m/0jbk
+862455, J9tZYLVTeYk, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1717823, mdXkuvdPBOY, 0.000, 8.000, /m/01yrx, /m/05x_td, /m/068hy, /m/0jbk
+441378, 7PTcuUMQ6h8, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+684220, Dgy3We6mv3s, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+936024, LXwaZm5ISN8, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+1145018, SSPYcL9w80Q, 30.000, 40.000, /m/01yrx, /m/0jbk
+73273, 0Ahw0J1vneo, 21.000, 31.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+10722, -9wyZLpUOgI, 180.000, 190.000, /m/01yrx, /m/09x0r, /m/0jbk
+1243919, Vu4q7yw1YEg, 6.000, 16.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+210600, 2_07VckX0oU, 21.000, 31.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1633360, jIcBprYurJg, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+401382, 6SfzejnGjWE, 14.000, 24.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1649029, jvgtU-Dt5F8, 13.000, 23.000, /m/01yrx, /m/09x0r
+472290, 89z6-2XareY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+147212, 1RNq7dbRpWU, 16.000, 26.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1403739, abfGgGwEhWw, 160.000, 170.000, /m/01yrx, /m/02yds9, /m/0jbk
+284000, 3ww-zwFxrtY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+922577, L5sYruGx2ow, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125, /t/dd00128
+1624132, iwBoTThL5CY, 40.000, 50.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+2000029, yFRvqqORC98, 21.000, 31.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+119749, 0y69IaalTjY, 10.000, 20.000, /m/01d3sd, /m/01yrx, /m/068hy, /m/0jbk
+1599424, hybpjcChEw8, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+1816062, qdMmmzmiQ-Q, 40.000, 50.000, /m/01yrx, /m/068hy, /m/0jbk
+793078, H-jVRjAIBNM, 5.000, 15.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1127566, RrYaQe98MgE, 90.000, 100.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk, /t/dd00125
+1171780, TMmJ3KQAbpE, 180.000, 190.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+810422, HXiHhWBDPog, 15.000, 25.000, /m/01yrx, /m/02yds9
+1755651, oA4oaSHpmSI, 10.000, 20.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1697826, lr9L7xjr4xg, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+200783, 2Og2AI0y9Ok, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/07rjwbb, /m/09x0r
+25892, -PBTv-f6Tl8, 17.000, 27.000, /m/01yrx, /m/068hy, /m/07rjwbb
+434880, 7FYQQmZ9SNw, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+1838366, rZZif5REV3M, 24.000, 34.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1891084, tjIghTDWKYk, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+609439, B_l5G4P8tMk, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r4wb8, /m/0jbk
+1735644, nMIlGQGgyWU, 10.000, 20.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+628095, C5Is38_YYFA, 0.000, 10.000, /m/01yrx, /m/09x0r, /m/0jbk
+328511, 4r06TZ6uI6k, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+514052, 9DTxc3dRIZE, 0.000, 10.000, /m/01yrx, /m/02yds9, /m/0jbk
+417306, 6piyc-Tlfak, 10.000, 20.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1183265, TllqXAluGIA, 250.000, 260.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125, /t/dd00126
+774823, GRVdV2BUfI8, 17.000, 27.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+883123, JovF7Iglifc, 1.000, 11.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+60625, -ySTs0uSDTM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+1173783, TRCOt6ccl4s, 20.000, 30.000, /m/01yrx, /m/09x0r, /m/0jbk, /t/dd00125
+422221, 6x8x7jndRyU, 30.000, 40.000, /m/01yrx, /m/02yds9, /m/09x0r, /m/0jbk
+182084, 22t78dtnqFI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+434933, 7FcPsBucam8, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+179143, 2-dHuNPOmFg, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+75511, 0D7jjB-PsaU, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1285434, XMGP_01XEyM, 0.000, 10.000, /m/01yrx, /m/07qrkrw, /m/0jbk
+676949, DUev5O2BQuY, 20.000, 30.000, /m/01yrx, /m/09x0r, /m/0jbk
+666254, DAnYL58ADIU, 10.000, 20.000, /m/01yrx, /m/07qrkrw, /m/0jbk
+112, --5uHDNDKxs, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+354248, 5Oxcl3P2Csc, 13.000, 23.000, /m/01yrx, /m/068hy, /m/0jbk
+197935, 2LIvLv3Jll0, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1695083, lkHBT5_WIr4, 0.000, 5.000, /m/01yrx, /m/068hy, /m/07qrkrw
+1909277, uUduTh2ZzwI, 50.000, 60.000, /m/01d3sd, /m/01yrx, /m/068hy, /m/0jbk
+292968, 47BbFROLM9w, 3.000, 13.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+431920, 7Ay-gVQ4oSc, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1389497, a53tNbTSxVw, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+938072, Lb4EVNhrbfc, 120.000, 130.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1961688, weSEam9wX8E, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+703752, EGw4NSEYJws, 40.000, 50.000, /m/01yrx, /m/068hy, /m/0jbk
+915406, Ks7Qzoz6bZM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+923610, L87uIEd1XHw, 40.000, 50.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+985393, N7wWudI2QTc, 0.000, 7.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+967306, MYKvWFrCGis, 0.000, 10.000, /m/01yrx, /m/09x0r, /m/0jbk
+270339, 3g5R9BuN1HI, 0.000, 10.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1156997, SrP3Ad1AhGA, 60.000, 70.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+502013, 8utr82ke-Rk, 0.000, 10.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+482548, 8QSrhg8X8S0, 0.000, 5.000, /m/01yrx, /m/068hy, /m/07r81j2
+1510589, e_QNWfrJozk, 11.000, 21.000, /m/01yrx, /m/068hy, /m/0jbk
+351543, 5LEW_H__nmA, 18.000, 28.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+1166513, TBJednRIRLY, 60.000, 70.000, /m/01yrx, /m/068hy, /m/0jbk
+258148, 3SBXJVCtomo, 20.000, 30.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+961255, MLt4ffYFRgk, 150.000, 160.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+1368957, _KtOZjJzU5M, 30.000, 40.000, /m/01yrx, /m/09x0r, /m/0jbk
+1404749, adyISUjcQi4, 140.000, 150.000, /m/01yrx, /m/0jbk
+857909, J0kaliuNSiA, 10.000, 20.000, /m/01yrx, /m/0jbk
+347606, 5FoC4i8ZbfQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+345432, 5Ct0Emq8j8A, 13.000, 23.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+479251, 8L5yuRycYRU, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+296548, 4BZ0TPmuX_Q, 30.000, 40.000, /m/01yrx, /m/09x0r, /m/0jbk
+420532, 6uc2AZFh-64, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+384436, 63cUu_yjZck, 16.000, 26.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+665226, D8n4ihGa2fI, 21.000, 31.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+361512, 5Yu0qF8iwhA, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy
+1841409, rgIDEDKOkq4, 160.000, 170.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+395657, 6JyHw_Clffw, 0.000, 2.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+452598, 7fhov7fTZag, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r
+1203965, UVZZ3S8TDPU, 40.000, 50.000, /m/01yrx, /m/02yds9, /m/0jbk
+1148342, SZizOD6u1E4, 90.000, 100.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+487169, 8XmtFZY0KoA, 280.000, 290.000, /m/01yrx
+105735, 0iaK9Evi2_U, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+714996, EbWBCDFAf2I, 20.000, 30.000, /m/01yrx, /m/068hy, /m/0jbk
+1528868, fFyDwSIbNBc, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+190242, 2CSHWGtuxAY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+362027, 5ZdyFCC8fWs, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+978680, MuwXiDL4u8g, 40.000, 50.000, /m/01yrx, /m/04rlf
+1232780, VWGGPWoJauU, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+1786671, pRabNlrFVoo, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+175481, 1wTYC26te1E, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+289960, 43M9lSSjGKk, 10.000, 20.000, /m/01yrx, /m/0jbk
+1535219, fVLVrc430pw, 6.000, 16.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1371813, _RTDg4bMpIk, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+69622, 06seVx9COw8, 3.000, 13.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+424966, 70KaCeJ78hA, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1608701, iKjw9C06GiQ, 300.000, 310.000, /m/01yrx
+1284384, XJobsDLWy3Q, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+94172, 0X5yGzLr7YA, 30.000, 40.000, /m/01yrx, /m/02yds9, /m/068hy, /m/09x0r, /m/0jbk
+1911560, u_bZeTMOg9g, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk
+275964, 3n--reua_a0, 27.000, 37.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1161051, T-7ed-4B_oc, 50.000, 60.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+81322, 0JNJup0MbiM, 0.000, 10.000, /m/01yrx, /m/09x0r, /m/0jbk
+391185, 6D7WAQa0Dac, 22.000, 32.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+862439, J9rf6VzkG8E, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1851060, s5-Uu9ldTGg, 60.000, 70.000, /m/01yrx, /m/02_nn, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1709170, mInCZEfouNU, 20.000, 30.000, /m/01yrx, /m/04rlf, /m/0jbk
+198962, 2MUGURqhNhw, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+1961099, wcxNdk08PvY, 110.000, 120.000, /m/01yrx, /m/068hy, /m/0jbk
+454404, 7iYNNvpouZw, 60.000, 70.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+610331, BbF93ghqvpM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1327904, YrhZGRyeEYA, 20.000, 30.000, /m/01yrx, /m/0jbk
+1774912, oy2b5i_4-20, 0.000, 6.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1525050, f6o8T8OSASw, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+473923, 8CdiUWrVgW8, 30.000, 40.000, /m/01yrx, /m/0jbk
+1245813, VyCNWy2t4tk, 450.000, 460.000, /m/01yrx, /m/04rlf, /m/09x0r, /t/dd00129
+1610508, iPFMuhmgKT4, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1198815, UJsW0zlARyo, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk, /m/0lyf6
+1771720, opZVKZ67QcI, 20.000, 30.000, /m/01yrx, /m/09x0r, /m/0jbk
+1897485, u-CFsUVUeU8, 40.000, 50.000, /m/01yrx, /m/068hy, /m/0jbk
+452349, 7fKdwIgs990, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1844216, rngGBO6Urms, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+923692, L8HPLmTaDAg, 0.000, 10.000, /m/01yrx, /m/0jbk
+466742, 81C5ysSrqyY, 0.000, 10.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk, /m/0ytgt
+53645, -r9CUTEa8wM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1791389, pctugCCd18w, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+463528, 7wyV4mU-E4k, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+107283, 0kMfJynbQg8, 18.000, 28.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1440865, bzXQrIPD2Iw, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+1674024, kuoQtqGpsD0, 120.000, 130.000, /m/01yrx, /m/068hy, /m/0jbk, /m/0lyf6
+1264975, Wd4O-trb4hc, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/07qrkrw
+1432432, bfG44JrukMI, 40.000, 50.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+2023178, zDPeBQwUIaE, 20.000, 30.000, /m/01yrx, /m/0jbk
+357760, 5TiGP89UErY, 8.000, 18.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1628476, j6H8c2hWik8, 0.000, 10.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk, /t/dd00125
+1894090, trETWIjnjgQ, 0.000, 2.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+124089, 11qcdPN80x8, 0.000, 7.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+235275, 30wxUChLbi0, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07rjwbb, /m/09x0r, /m/0jbk
+187312, 29-VHfXrz7E, 30.000, 40.000, /m/01yrx
+268300, 3daSrt5mRTM, 10.000, 20.000, /m/01yrx, /m/0jbk, /t/dd00125
+340554, 56DgpuRPvIU, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+600272, BLoiVNBTAlw, 20.000, 30.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+1553491, gBLAUO5VSaI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+1922901, v2oflxE4Aio, 17.000, 27.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+292853, 4720VXHoWLM, 17.000, 27.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+820523, HqzC6L3PugE, 60.000, 70.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1597449, htcLg8O8myQ, 10.000, 20.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1510903, ea99vK2-on8, 20.000, 30.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk, /t/dd00125
+387136, 67RwEkU_CZA, 12.000, 22.000, /m/01yrx, /m/068hy, /m/09x0r
+1798792, pwLbRh2djbY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1507517, eTF0gpdFIGQ, 110.000, 120.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1312088, YIv-F6qwTOc, 30.000, 40.000, /m/01yrx, /m/02yds9
+471168, 88AWuXFZkTU, 17.000, 27.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+315441, 4_MSTYZF8ns, 0.000, 10.000, /m/01yrx, /m/07qrkrw, /m/0jbk
+26020, -PK81pz3534, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+391811, 6E4FAcqr3OQ, 0.000, 7.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1317868, YVwn3W_0cK8, 20.000, 30.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1221327, V6UucapsNI4, 21.000, 31.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+1457056, caP4Qu_GcZw, 0.000, 10.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk, /t/dd00125
+1301990, Xwz8t7C8RyY, 250.000, 260.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+140757, 1KCqn-RZ8-s, 11.000, 21.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+78180, 0Fym_Eo51p0, 15.000, 25.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+157405, 1bvRkyT2Q5I, 29.000, 39.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1305233, Y3N1l0tpd8c, 40.000, 50.000, /m/01yrx, /m/0jbk
+840918, IUqUmLMHcmI, 30.000, 40.000, /m/01yrx, /m/0jbk
+1800726, q0JGqHWwx2w, 30.000, 40.000, /m/01yrx, /m/07r81j2, /t/dd00126
+1815091, qafHmADLmNw, 100.000, 110.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1970885, x1wVaNOluKs, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy
+1077556, QAI5ESOkVY0, 22.000, 32.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+213962, 2d-xAzl7wiQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+149528, 1U1k-d1x1qw, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+293621, 47xQ6t6fkcw, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+906131, KZrw74_tais, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw
+1482339, dXcWD1udOxs, 0.000, 10.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+149834, 1ULogjMYnIY, 10.000, 20.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+474267, 8DAPIapMshM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+278213, 3pnNrHelAmY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+100415, 0crSdgvedhc, 150.000, 160.000, /m/01yrx, /m/0jbk
+1581780, hHLJzJ1ZG-Y, 0.000, 10.000, /m/01yrx, /m/0jbk
+437266, 7JAAK2w4Tmg, 17.000, 27.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+192185, 2Em-lAD3KxM, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+1776350, p0glqwun2r0, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1802795, q5iETSg2uN4, 140.000, 150.000, /m/01yrx, /m/02yds9, /m/068hy, /m/09x0r, /m/0jbk
+452590, 7fhGUasT2WM, 20.000, 30.000, /m/01yrx, /m/068hy, /m/0jbk
+1655564, kBIRgmEmnxo, 40.000, 50.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+1058527, PXPLOWcjJa0, 90.000, 100.000, /m/01yrx, /m/09x0r, /m/0jbk
+1540415, fgrR9HX2UeU, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1881509, tKlPOTBsXvE, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk
+1051790, PJDeQ_Vw8XE, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+985794, N8kUY9Su0Jw, 20.000, 30.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+5716, -4sst_mzg2w, 23.000, 33.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+139450, 1IjQok7rlEo, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+1797809, ptj8Zda0Yqk, 20.000, 30.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1016997, O9acXPCWQTg, 80.000, 90.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1007444, NqhpcSYaDJo, 530.000, 540.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+712563, EXr-HeaKURY, 15.000, 25.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+148545, 1SsyJvXcZrY, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+800556, HEUxj-5MpLM, 0.000, 10.000, /m/01yrx, /m/068hy, /m/09x0r
+376546, 5tO4UUbgm-8, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+516367, 9HE5K5duDcY, 30.000, 40.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1473633, dD4aYYFEJqg, 25.000, 35.000, /m/01yrx, /m/068hy, /m/07qrkrw
+270714, 3gXb8hq1Vk8, 25.000, 35.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+452832, 7g3qM5cdO-A, 50.000, 60.000, /m/01yrx, /m/028v0c, /m/068hy, /m/0jbk, /t/dd00125
+590658, B67xdpbSju8, 8.000, 18.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+333637, 4xvE2qqUIIc, 24.000, 34.000, /m/01yrx, /m/068hy, /m/0jbk
+475384, 8Ewzh_yt0qc, 21.000, 31.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+1120338, RbrM_6dOzos, 50.000, 60.000, /m/01yrx, /m/09x0r, /m/0jbk
+1635028, jN5rUwbaSYQ, 140.000, 150.000, /m/01yrx, /m/02yds9, /m/068hy, /m/09x0r, /m/0jbk
+129602, 17tk_fp4eJ0, 50.000, 60.000, /m/01yrx, /m/068hy, /m/0jbk
+1910455, uXo7hzgmvX4, 0.000, 8.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+5932, -55UGnqZsOo, 8.000, 18.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1511880, ecXddV-N0_g, 30.000, 40.000, /m/01yrx, /m/02rtxlg, /m/09x0r, /m/0jbk
+490538, 8cGWm7e6V0Y, 25.000, 35.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+194897, 2HrOE3MhR6Q, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+241487, 387t960yVs8, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+5808, -4yIYhypF8w, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+474451, 8DShIG3d-F4, 30.000, 40.000, /m/01yrx, /m/09x0r, /m/0jbk
+1083993, QNqXUhtwC-M, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw
+158495, 1d7B0qiIadE, 25.000, 35.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw
+1950856, wDLzqIyUbf4, 90.000, 100.000, /m/01yrx, /m/02yds9, /m/04rlf, /m/09x0r
+733951, FB1cQMkn4Kw, 20.000, 30.000, /m/01yrx, /m/04rlf, /m/09x0r, /m/0jbk
+1837584, rXUc7rfCGvc, 6.000, 16.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+361954, 5ZWbwihwLkw, 50.000, 60.000, /m/01yrx, /m/04rlf, /m/068hy, /m/0jbk
+18780, -I1upuU0HXs, 16.000, 26.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+346757, 5EhOMFdPBG8, 80.000, 90.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0ghcn6, /m/0jbk
+96425, 0ZZ_wdnsc10, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1950228, wBisMaSyAyQ, 8.000, 18.000, /m/01yrx, /m/068hy, /m/0jbk
+1742218, nc9xw-VmurE, 10.000, 20.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1202676, USle1qAiOdA, 0.000, 9.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1816758, qf9ABULY_pQ, 21.000, 31.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1983292, xYrcI5Gpu8w, 100.000, 110.000, /m/01yrx, /m/09x0r, /m/0jbk
+1960412, wbEcPrnZHC4, 100.000, 110.000, /m/01yrx, /m/068hy, /m/0jbk
+340785, 56Z-tWiIK7g, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1208531, Uf19-yqjd9k, 30.000, 40.000, /m/01yrx, /m/09x0r, /m/0jbk
+1240559, VmoqQpBQ4WI, 0.000, 10.000, /m/01yrx, /m/04rlf, /m/0jbk
+170427, 1qj-T_zeg2g, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+140797, 1KFRlXZfnIA, 13.000, 23.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+346040, 5Di4ovLsdJM, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+365256, 5dEWjIBVYLo, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+1202233, URn76I_XxsQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+323779, 4kYst2YDiUo, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+319140, 4eCIbc4sJVI, 30.000, 40.000, /m/01yrx, /m/09x0r
+680135, D_Z4sIBxFdQ, 11.000, 21.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1027897, OWbtxdq5rvQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+1825408, r0pB_EPlVxY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+413360, 6jp95El8iQU, 8.000, 18.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1709671, mK-KS9OfG0s, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+776059, GU-tnW8SGtY, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk
+1806987, qGaHXjF-XLo, 20.000, 30.000, /m/01yrx, /m/068hy, /m/0jbk
+905963, KZ_0S_FNg7g, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1284722, XK_yX7Q6ClU, 210.000, 220.000, /m/01yrx, /m/068hy, /m/0jbk
+506520, 91Gid732STA, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+950625, M0-HzaD0qOA, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+949000, LxifzATe5Ro, 20.000, 30.000, /m/01yrx, /m/0jbk
+156557, 1b1b-9_AcFg, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1188123, TwpJtgXZp9Q, 20.000, 30.000, /m/01yrx, /m/068hy, /m/0ghcn6, /m/0jbk
+1259253, WRQBBCJ7heg, 10.000, 20.000, /m/01yrx, /m/02yds9
+1741807, nb1UZbhfuqA, 1.000, 11.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1943859, vw3YDVVkd-I, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r, /m/0jbk
+915894, KtETAah5oFk, 30.000, 40.000, /m/01yrx, /m/07qrkrw
+398511, 6OLmkERXVnQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+592978, B9p9q6CvXG8, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+2037466, zoLgQ2nmAFQ, 30.000, 40.000, /m/01yrx
+1236494, VdSl_Syr1Vs, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0jbk
+111194, 0ohDaDAgMC8, 27.000, 37.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+919409, L-QXiyUFCds, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+1549274, g0zl7rO8VdU, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+1411068, asp6NabflDs, 0.000, 7.000, /m/01yrx, /m/068hy, /m/0jbk
+321602, 4hai8G68k50, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+1396862, aMJ1L7Dbe3Q, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1105548, R6nsdbMom80, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+480778, 8NePJuwGaxs, 30.000, 40.000, /m/01yrx, /m/07qrkrw, /m/0jbk
+953590, M6548L35a1I, 8.000, 18.000, /m/01yrx, /m/068hy, /m/0jbk
+812274, HaVVuNRHF7A, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1837710, rXmiSN5l7NE, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1939641, vkVgm1OZGic, 80.000, 90.000, /m/01yrx, /m/068hy, /m/0jbk, /t/dd00125
+1122718, Rh9GREjEoIo, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1175173, TULz5Totm3E, 15.000, 25.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1420490, bDoymkRKl0I, 29.000, 39.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+2035676, zjR-PS1F7p4, 20.000, 30.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+147884, 1S7ZiKYPu4Q, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1767144, odKotLN2d4w, 50.000, 60.000, /m/01yrx, /m/04rlf, /m/0jbk
+599016, BJhqYFsgie0, 80.000, 90.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+335237, 5-4pJcg-N6s, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+1694802, ljZxYsl-GaQ, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw
+512276, 9AWCk7HlG4o, 40.000, 50.000, /m/01yrx, /m/09x0r, /m/0jbk
+926081, LDOZEgswG6A, 80.000, 90.000, /m/01yrx, /m/02yds9, /m/068hy
+1268204, WkOw1ZP9e4I, 0.000, 10.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r, /m/0jbk
+1393470, aEFqpB8DYVU, 23.000, 33.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1467016, cy_vlIclVIk, 0.000, 10.000, /m/01d3sd, /m/01yrx, /m/068hy, /m/0jbk
+480261, 8MoBL3-LmHY, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+228270, 2tdHHT0wNV0, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+36721, -_JNLl_J-_A, 13.000, 23.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2
+629770, C848qgjk8Sc, 0.000, 8.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1666267, kbEenS2dRTc, 150.000, 160.000, /m/01yrx, /m/068hy, /m/0jbk
+942988, LlOwwGEX8PA, 0.000, 7.000, /m/01yrx
+1370161, _NgVUWxZh7c, 0.000, 10.000, /m/01yrx, /m/02yds9, /m/0jbk
+304957, 4MWgLnJzF1o, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07rjwbb, /m/0jbk
+1852968, s9z_l0554UE, 20.000, 30.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+399049, 6P6NHPPwu2U, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/07qrkrw
+284360, 3xLintYp7PY, 12.000, 22.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+177158, 1ySWMaR5x2w, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+497240, 8nGAbZmWhC4, 7.000, 17.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+1761255, oOeeqBqz8VM, 10.000, 20.000, /m/01yrx, /m/0jbk
+578985, AoG0OMBtaSI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1514368, eiYpoLd0Z2M, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0ghcn6
+1576288, h3fiWXjpbvk, 19.000, 29.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+121974, 1-Zkx_iY68k, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1627005, j2Umdkwqni4, 50.000, 60.000, /m/01yrx, /m/0jbk
+2009618, yeG29-IthC8, 70.000, 80.000, /m/01yrx, /m/068hy, /m/0jbk
+246041, 3DZOD7ziIh0, 5.000, 15.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk
+1487230, di6RXQFxUNU, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw
+1606278, iEeyQgvdv50, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+134006, 1ChE5QHG81o, 0.000, 7.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+885599, JtqN5sgDU6U, 30.000, 40.000, /m/01yrx, /m/02yds9
+416341, 6oCWv-0r9fQ, 13.000, 23.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1087830, QWFLcih-SsU, 22.000, 32.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+858798, J2Z5_PM83mg, 160.000, 170.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00125
+119103, 0xOa3cWQRX4, 21.000, 31.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1572478, gv47cYPBpOc, 40.000, 50.000, /m/01yrx, /m/0jbk
+1472893, dBK1MZUqddg, 0.000, 10.000, /m/01yrx, /m/09x0r, /m/0ghcn6, /m/0jbk
+52861, -qLWWs21TbQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+1923749, v5AK4Z8fGko, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+745137, FXGw5wYOgmM, 0.000, 4.000, /m/01yrx
+474158, 8CzaOuAoxYM, 6.000, 16.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+324600, 4le_42J5qkU, 12.000, 22.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+747248, FaR_AtvJ9wY, 180.000, 190.000, /m/01yrx, /m/068hy
+1084116, QO9GZBHmxo4, 10.000, 20.000, /m/01yrx, /m/09x0r, /m/0jbk
+471908, 89MvmpvCPmw, 10.000, 20.000, /m/01yrx, /m/0jbk
+392429, 6F2Hju9hBM0, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+327271, 4pIp7MMNTeE, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+274648, 3lLmEplV3eY, 20.000, 30.000, /m/01yrx, /m/03q5_w, /m/04rlf, /m/068hy, /m/09x0r, /m/0jbk
+324017, 4ks0_dkWNGw, 10.000, 20.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1852552, s8wBG-Ui8F8, 90.000, 100.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/09x0r, /m/0jbk, /t/dd00125
+1082962, QLdX_YxJ-Oc, 200.000, 210.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+1429888, b_C-fNIS8aI, 0.000, 10.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+1720932, mlVQ1e1J3X0, 24.000, 34.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+264396, 3ZiLWs1_pHU, 150.000, 160.000, /m/01yrx, /m/068hy, /m/0jbk
+451661, 7eJZgWKcXwQ, 22.000, 32.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1599353, hySHypGE994, 150.000, 160.000, /m/01yrx, /m/068hy, /m/09x0r
+1565570, gdr7bd8olO8, 60.000, 70.000, /m/01yrx, /m/02yds9, /m/068hy, /m/0jbk
+611144, BcdK-eFBqgI, 280.000, 290.000, /m/01yrx, /m/068hy, /m/0jbk
+431978, 7B2cHOdAppM, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+900936, KP2H8e3MDBg, 0.000, 10.000, /m/01yrx, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+356101, 5RSEXD89PkE, 1.000, 11.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/09x0r, /m/0jbk
+386611, 66heyEPj1WE, 5.000, 15.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1136825, SAO3vx1O4ak, 10.000, 20.000, /m/01yrx, /m/068hy, /m/0jbk
+1583390, hLWaV1ggsoo, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+709668, ESMXYy0WoVc, 27.000, 37.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+671008, DJYnn3-kpug, 30.000, 40.000, /m/01yrx, /m/068hy, /m/0jbk
+13964, -D6DyrLZuQQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07r81j2, /m/0jbk
+456146, 7lCBWha_5zY, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r
+952834, M4YieXBhu-w, 220.000, 230.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk, /t/dd00126
+374819, 5r-P4IvNUV4, 22.000, 32.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+470860, 87d3SpFGttE, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1329212, Yubv805DH-4, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw
+210803, 2_Fl6KD9xZQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/0jbk
+1807478, qHnmA8furU0, 160.000, 170.000, /m/01yrx, /m/0jbk
+115336, 0tJBwSNGP5s, 6.000, 16.000, /m/01yrx, /m/068hy, /m/07pbtc8, /m/0jbk
+1507475, eT9IkCGvn_4, 10.000, 20.000, /m/01yrx, /m/0jbk
+498752, 8ph2oOxvwmY, 18.000, 28.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1645076, jlosJeSnROk, 11.000, 21.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+962321, MO6hIk2LM0w, 260.000, 270.000, /m/01yrx, /m/068hy, /m/0jbk
+329637, 4sUECwj3Lu0, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07rjwbb, /m/0jbk
+647944, CdwDAvZB6-w, 440.000, 450.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1039966, Ov8giEqmntc, 40.000, 50.000, /m/01yrx, /m/068hy, /m/0jbk
+972967, Mj3zLi9jRjI, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r
+23606, -Mu6SF2fxnE, 30.000, 40.000, /m/01yrx, /m/068hy, /m/09x0r, /m/0jbk
+1404953, aeTgEc06cIQ, 30.000, 40.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/09x0r, /m/0jbk
+1516707, eoFMhP8cwdo, 50.000, 60.000, /m/01yrx, /m/0jbk
+694258, Dzrs45N5Vpg, 30.000, 40.000, /m/01yrx, /m/0jbk
+1430637, baziSDtdWq0, 0.000, 10.000, /m/01yrx, /m/068hy, /m/0ghcn6, /m/0jbk
+427012, 73MhTEyv3W4, 4.000, 14.000, /m/01yrx, /m/068hy, /m/07qrkrw, /m/07r81j2, /m/0jbk
+2022289, zB21NS9sZp4, 30.000, 40.000, /m/01yrx, /m/04rlf, /m/068hy, /m/07qrkrw, /m/0jbk
+1240174, VltD0zqFa6U, 70.000, 80.000, /m/01yrx, /m/068hy, /m/0jbk
+1708301, mGcIhQw0d5U, 40.000, 50.000, /m/01yrx, /m/04rlf, /m/068hy, /m/09x0r
+1285642, XMk8joLQER4, 60.000, 70.000, /m/01yrx, /m/0jbk
+338905, 543g5ubvyh4, 10.000, 20.000, /m/01yrx, /m/03qjg, /m/04rlf, /m/0jbk
