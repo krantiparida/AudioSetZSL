@@ -50,6 +50,5 @@ def download_video(label, out_folder, inp_folder):
 				os.remove(os.path.join(out_folder, label, 'temp.mp4'))
 			vids += 1
 			print('Time Taken in Seconds:{}'.format(time.time() - start_time))
-			exit()
 
 
