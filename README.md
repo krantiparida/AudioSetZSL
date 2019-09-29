@@ -16,7 +16,7 @@ We also provide the pre-trained features for both audio and video. The features 
 To download the pretrained feature follow the link : [Download]()
 
 ## Contact
-Kindly contact kranti@cse.iit.ac.in for any issues, comments etc. 
+Kindly contact kranti@cse.iitk.ac.in for any issues, comments etc. 
 
 
 ## Disclaimer
