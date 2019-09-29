@@ -1,5 +1,5 @@
 # AudioSetZSL
-This repsoitory conatins the audio-visual dataset proposed for the task of multi-modal zershot learning.
+This repsoitory conatins the audio-visual dataset proposed for the task of multi-modal zeroshot learning.
 
 The dataset is curated from a large dataset, [AudioSet](https://research.google.com/audioset/). 
 While the original dataset was multilabel, the example videos were selected such that every video in AudioSetZSL has only one label, ie. it is a multiclass dataset. For more details on creation of the dataset, refer to our paper.
@@ -10,6 +10,17 @@ The dataset is divided into 2-parts for a broader use for both the task of class
 
 The examples for each class has been divided into three subsets namely, train, test and val.
 
-Similary, for the task of ZSL the dataset is divided into see and unseen.
+Similary, for the task of ZSL the classes in the dataset is divided into see and unseen.
 
-We also provide the pre-trained features for both audio and the features are so obtained that it can be used for the tsak of ZSL as there is no unseen class overlap with the pre-training of the network.
+We also provide the pre-trained features for both audio and video. The features are so obtained that it can be used for the tsak of ZSL as there is no unseen class overlap with the pre-training of the network.
+To download the pretrained feature follow the link : [Download]()
+
+## Contact
+Kindly contact kranti@cse.iit.ac.in for any issues, comments etc. 
+
+
+## Disclaimer
+1. The dataset collection was done at IIT Kanpur. 
+2. The dataset is intended to be used for academic research only. 
+3. The links are YouTube links and the user is responsible for compliance with YouTube's terms and conditions. 
+4. The videos are the property of the respective YouTube uploader.
