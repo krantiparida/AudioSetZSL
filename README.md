@@ -2,7 +2,7 @@
 This repsoitory conatins the audio-visual dataset proposed for the task of multi-modal zeroshot learning.
 
 The dataset is curated from a large dataset, [AudioSet](https://research.google.com/audioset/). 
-While the original dataset was multilabel, the example videos were selected such that every video in AudioSetZSL has only one label, ie. it is a multiclass dataset. For more details on creation of the dataset, refer to our [paper]().
+While the original dataset was multilabel, the example videos were selected such that every video in AudioSetZSL has only one label, ie. it is a multiclass dataset. For more details on creation of the dataset, refer to our [paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Parida_Coordinated_Joint_Multimodal_Embeddings_for_Generalized_Audio-Visual_Zero-shot_Classification_and_WACV_2020_paper.pdf).
 
 
 Here, we provide the Youtube IDs for each class in the folder ``` youtube-id```.
@@ -10,9 +10,9 @@ The dataset is divided into 2-parts for a broader use for both the task of class
 
 The examples for each class has been divided into three subsets namely, train, test and val.
 
-Similary, for the task of ZSL the classes in the dataset is divided into see and unseen.
+Similary, for the task of ZSL the classes in the dataset is divided into seen and unseen.
 
-We also provide the pre-trained features for both audio and video. The features are so obtained that it can be used for the task of ZSL as there is no unseen class overlap with the pre-training of the network (refer to our [paper]() for the detailed process of the dataset split).
+We also provide the pre-trained features for both audio and video. The features are so obtained that it can be used for the task of ZSL as there is no unseen class overlap with the pre-training of the network (refer to our [paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Parida_Coordinated_Joint_Multimodal_Embeddings_for_Generalized_Audio-Visual_Zero-shot_Classification_and_WACV_2020_paper.pdf) for the detailed process of the dataset split).
 To download the pretrained feature follow the link : [Download]()
 
 ## Contact
