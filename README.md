@@ -13,7 +13,7 @@ The examples for each class has been divided into three subsets namely, train, t
 Similary, for the task of ZSL the classes in the dataset is divided into seen and unseen.
 
 We also provide the pre-trained features for both audio and video. The features are so obtained that it can be used for the task of ZSL as there is no unseen class overlap with the pre-training of the network (refer to our [paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Parida_Coordinated_Joint_Multimodal_Embeddings_for_Generalized_Audio-Visual_Zero-shot_Classification_and_WACV_2020_paper.pdf) for the detailed process of the dataset split).
-To download the pretrained feature follow the link : [Download]()
+To download the pretrained feature follow the link : [Download](https://drive.google.com/open?id=1C5c8K0ZkPhzz-RX1qkPgkGejAssSA72v)
 
 ## Contact
 Kindly contact kranti@cse.iitk.ac.in for any issues, comments etc. 
