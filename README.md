@@ -24,3 +24,6 @@ Kindly contact kranti@cse.iitk.ac.in for any issues, comments etc.
 2. The dataset is intended to be used for academic research only. 
 3. The links are YouTube links and the user is responsible for compliance with YouTube's terms and conditions. 
 4. The videos are the property of the respective YouTube uploader. If any video belongs to you and you would like to have it removed kindly let us know and we will remove it from the dataset.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4MTkyMTQ1NDRdfQ==
+-->
